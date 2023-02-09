@@ -12,7 +12,7 @@ class BookList extends Component {
       <>
         <Row>
           <Col>
-            <Form.Group>
+            <Form.Group className='p-3'>
               <Form.Label>Search a book</Form.Label>
               <Form.Control
                 type="text"
